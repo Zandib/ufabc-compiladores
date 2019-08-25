@@ -1,0 +1,9 @@
+cudigo notadeAula{
+quebrada notap1 = pega_a_visao(quebrada)
+quebrada notap2 = pega_a_visao(quebrada)
+pensa_se((notap1+notap2)/2>5){
+kero_ve("Aprovado")
+} els{
+kero_ve("Reprovado")
+}
+}

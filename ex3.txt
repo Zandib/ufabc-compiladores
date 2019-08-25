@@ -1,0 +1,9 @@
+cudigo lacoRepetido{
+redondo x = pega_a_visao(redondo)
+redondo fatorial = 1
+enquantu(x>=1){
+fatorial=fatorial*x
+x=x-1
+}
+kero_ve(fatorial)
+}

@@ -1,0 +1,5 @@
+cudigo entradaEprocessamentoEsaida{
+quebrada x = pega_a_visao(quebrada)
+quebrada y = x + 2
+kero_ve(y)
+}
